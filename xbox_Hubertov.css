@@ -11,7 +11,7 @@
 }
 
 .custom.disconnected {
-    background: url(disconnected.svg);
+    background: url(https://raw.githubusercontent.com/VideoGameRoulette/XboxOne-Controller/master/Tron/disconnected.png);
 }
 
 .custom.disconnected div {
